@@ -1,0 +1,10 @@
+.jobCounterContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 33%;
+  border-radius: 10px;
+}
+.jobCounterContainer > h1 {
+  color: white;
+}

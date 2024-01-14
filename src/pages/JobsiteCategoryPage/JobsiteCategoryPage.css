@@ -1,0 +1,72 @@
+.jobsiteContainer {
+  display: flex;
+  height: 510px;
+}
+
+.jobsiteSiderContainer {
+  min-width: 347px;
+  box-sizing: border-box;
+  border-radius: 10px;
+  height: 100%;
+  margin: 4px;
+  height: 501px;
+  box-shadow: 0px 1px 4px 0px #00000040;
+}
+.jobsiteSiderTitleContainer {
+  height: 45px;
+  background: #f8f8fa;
+  border-radius: 10px;
+}
+
+.jobsiteItemContent {
+  height: 490px;
+  width: calc(100% - 10px);
+  margin-left: 10px;
+  box-sizing: border-box;
+  border-radius: 10px;
+  height: 501px;
+  margin: 4px;
+  box-shadow: 0px 1px 4px 0px #00000040;
+}
+.title {
+  font-family: Open Sans;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 22px;
+  text-align: left;
+  margin: 0px;
+  padding: 10px 15px;
+
+  color: black;
+}
+.jobsiteSiderCategoryContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  height: 90%;
+}
+.jobsiteSiderCategory {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100%;
+}
+.jobsiteSiderBackButton {
+  width: 150px;
+  height: "32px";
+  background-color: #0f5c97;
+  color: white;
+}
+.jobsiteItemContentTitle {
+  height: 45px;
+  background: #f8f8fa;
+  border-radius: 10px;
+}
+.jobsiteItemTableTitle {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #f8f8fa;
+  border-radius: 10px;
+}

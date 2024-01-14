@@ -1,0 +1,16 @@
+.jobsiteContent {
+  text-align: center;
+  min-height: 501px;
+  line-height: 120px;
+  color: white;
+  background-color: white;
+}
+
+.jobsiteLayout {
+  border-radius: 8px;
+  overflow: hidden;
+  width: calc(100% - 16px);
+  max-width: 1920px;
+  margin: auto;
+  margin-top: 10px;
+}

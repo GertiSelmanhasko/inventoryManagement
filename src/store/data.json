@@ -1,0 +1,245 @@
+[
+  {
+    "id": 1,
+    "jobsite": "1658 E 23rd St, Brooklyn, NY 11229, USA",
+    "status": "In Progress",
+    "categories": [
+      {
+        "category": "Sidewalk Shed",
+        "items": [
+          {
+            "id": 101,
+            "quantity": 1,
+            "description": "Lorem ipsum for Sidewalk Shed",
+            "notes": "Lorem ipsum notes for Sidewalk Shed",
+            "item": "X789"
+          },
+          {
+            "id": 102,
+            "quantity": 2,
+            "description": "Another Lorem ipsum for Sidewalk Shed",
+            "notes": "Another Lorem ipsum notes for Sidewalk Shed",
+            "item": "A456"
+          },
+          {
+            "id": 103,
+            "quantity": 3,
+            "description": "Yet another Lorem ipsum for Sidewalk Shed",
+            "notes": "Yet another Lorem ipsum notes for Sidewalk Shed",
+            "item": "K123"
+          }
+        ]
+      },
+      {
+        "category": "Scaffold",
+        "items": [
+          {
+            "id": 104,
+            "quantity": 1,
+            "description": "Lorem ipsum for Scaffold",
+            "notes": "Lorem ipsum notes for Scaffold",
+            "item": "D987"
+          },
+          {
+            "id": 105,
+            "quantity": 2,
+            "description": "Another Lorem ipsum for Scaffold",
+            "notes": "Another Lorem ipsum notes for Scaffold",
+            "item": "Z345"
+          },
+          {
+            "id": 106,
+            "quantity": 3,
+            "description": "Yet another Lorem ipsum for Scaffold",
+            "notes": "Yet another Lorem ipsum notes for Scaffold",
+            "item": "M678"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "jobsite": "7423 W Maple St, Chicago, IL 60601, USA",
+    "status": "Completed",
+    "categories": [
+      {
+        "category": "Shoring",
+        "items": [
+          {
+            "id": 201,
+            "quantity": 1,
+            "description": "Lorem ipsum for Shoring",
+            "notes": "Lorem ipsum notes for Shoring",
+            "item": "F234"
+          },
+          {
+            "id": 202,
+            "quantity": 2,
+            "description": "Another Lorem ipsum for Shoring",
+            "notes": "Another Lorem ipsum notes for Shoring",
+            "item": "Y567"
+          },
+          {
+            "id": 203,
+            "quantity": 3,
+            "description": "Yet another Lorem ipsum for Shoring",
+            "notes": "Yet another Lorem ipsum notes for Shoring",
+            "item": "P890"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "jobsite": "123 Main St, Anytown, CA 12345, USA",
+    "status": "In Progress",
+    "categories": [
+      {
+        "category": "Scaffold",
+        "items": [
+          {
+            "id": 301,
+            "quantity": 1,
+            "description": "Lorem ipsum for Scaffold",
+            "notes": "Lorem ipsum notes for Scaffold",
+            "item": "Q123"
+          },
+          {
+            "id": 302,
+            "quantity": 2,
+            "description": "Another Lorem ipsum for Scaffold",
+            "notes": "Another Lorem ipsum notes for Scaffold",
+            "item": "L456"
+          },
+          {
+            "id": 303,
+            "quantity": 3,
+            "description": "Yet another Lorem ipsum for Scaffold",
+            "notes": "Yet another Lorem ipsum notes for Scaffold",
+            "item": "H789"
+          }
+        ]
+      },
+      {
+        "category": "Sidewalk Shed",
+        "items": [
+          {
+            "id": 304,
+            "quantity": 1,
+            "description": "Lorem ipsum for Sidewalk Shed",
+            "notes": "Lorem ipsum notes for Sidewalk Shed",
+            "item": "S234"
+          },
+          {
+            "id": 305,
+            "quantity": 2,
+            "description": "Another Lorem ipsum for Sidewalk Shed",
+            "notes": "Another Lorem ipsum notes for Sidewalk Shed",
+            "item": "W567"
+          },
+          {
+            "id": 306,
+            "quantity": 3,
+            "description": "Yet another Lorem ipsum for Sidewalk Shed",
+            "notes": "Yet another Lorem ipsum notes for Sidewalk Shed",
+            "item": "C890"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "jobsite": "456 Oak Ave, Cityville, TX 78901, USA",
+    "status": "Completed",
+    "categories": [
+      {
+        "category": "Shoring",
+        "items": [
+          {
+            "id": 401,
+            "quantity": 1,
+            "description": "Lorem ipsum for Shoring",
+            "notes": "Lorem ipsum notes for Shoring",
+            "item": "E123"
+          },
+          {
+            "id": 402,
+            "quantity": 2,
+            "description": "Another Lorem ipsum for Shoring",
+            "notes": "Another Lorem ipsum notes for Shoring",
+            "item": "R567"
+          },
+          {
+            "id": 403,
+            "quantity": 3,
+            "description": "Yet another Lorem ipsum for Shoring",
+            "notes": "Yet another Lorem ipsum notes for Shoring",
+            "item": "I890"
+          }
+        ]
+      },
+      {
+        "category": "Scaffold",
+        "items": [
+          {
+            "id": 404,
+            "quantity": 1,
+            "description": "Lorem ipsum for Scaffold",
+            "notes": "Lorem ipsum notes for Scaffold",
+            "item": "G234"
+          },
+          {
+            "id": 405,
+            "quantity": 2,
+            "description": "Another Lorem ipsum for Scaffold",
+            "notes": "Another Lorem ipsum notes for Scaffold",
+            "item": "U567"
+          },
+          {
+            "id": 406,
+            "quantity": 3,
+            "description": "Yet another Lorem ipsum for Scaffold",
+            "notes": "Yet another Lorem ipsum notes for Scaffold",
+            "item": "N890"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "jobsite": "789 Pine Blvd, Tech City, FL 54321, USA",
+    "status": "On Hold",
+    "categories": [
+      {
+        "category": "Scaffold",
+        "items": [
+          {
+            "id": 501,
+            "quantity": 1,
+            "description": "Lorem ipsum for Scaffold",
+            "notes": "Lorem ipsum notes for Scaffold",
+            "item": "B234"
+          },
+          {
+            "id": 502,
+            "quantity": 2,
+            "description": "Another Lorem ipsum for Scaffold",
+            "notes": "Another Lorem ipsum notes for Scaffold",
+            "item": "V567"
+          },
+          {
+            "id": 503,
+            "quantity": 3,
+            "description": "Yet another Lorem ipsum for Scaffold",
+            "notes": "Yet another Lorem ipsum notes for Scaffold",
+            "item": "O890"
+          }
+        ]
+      }
+    ]
+  }
+]

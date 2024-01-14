@@ -1,0 +1,14 @@
+.informativePieceConatiner {
+  display: flex;
+  align-content: flex-start;
+}
+.informativePiece {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.informativePieceIcon {
+  font-size: medium;
+  color: #1264a3;
+  margin-right: 15px;
+}

@@ -1,0 +1,10 @@
+.ant-table-tbody > tr.even-row > td {
+  background-color: #f8f8fa;
+  height: 36px;
+  padding: 0%;
+}
+
+.ant-table-tbody > tr.odd-row > td {
+  height: 36px;
+  padding: 0%;
+}
